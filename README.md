@@ -1,0 +1,2 @@
+# .github
+Bind Labs Tech
